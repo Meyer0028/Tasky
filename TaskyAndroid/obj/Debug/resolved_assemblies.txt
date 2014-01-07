@@ -1,0 +1,2 @@
+E:\Study\Tasky\TaskyAndroid\bin\Debug\TaskyAndroid.dll
+E:\Study\Tasky\Tasky.Core\bin\Debug\Tasky.Core.Anroid.dll
